@@ -1,6 +1,6 @@
 module github.com/RecoLabs/servicenow-sdk-go
 
-go 1.23.1
+go 1.23
 
 require (
 	github.com/gabriel-vasile/mimetype v1.4.6
